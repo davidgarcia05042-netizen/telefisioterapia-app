@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+# Configuración local de Android Studio: no se versiona
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Configuración de Firebase del proyecto original: no se versiona
+app/google-services.json
+*.pdf
